@@ -1,1 +1,1 @@
-# CSE5390-Labs
+# CSE5324-Labs
